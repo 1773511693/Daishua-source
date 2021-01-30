@@ -1,8 +1,11 @@
+
+# 搭建视频教程
+# https://www.bilibili.com/video/BV1Ai4y1F7tA/
+# # 或
+# https://v.qq.com/x/page/o3213j308kj.html
+
 # 代刷网主站源码（无需授权）
 木槿自助下单系统
-
-
-
 
 # 安装说明：
 # 上传到空间后直接访问即可根据提示安装。
