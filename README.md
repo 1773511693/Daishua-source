@@ -1,11 +1,12 @@
 
 # 搭建视频教程
 # https://www.bilibili.com/video/BV1Ai4y1F7tA/
-# # 或
+# 或
 # https://v.qq.com/x/page/o3213j308kj.html
-
+# 免费虚拟主机mjidc.mjkj6.top
+# 如果无法打开联系QQ1773511693
 # 代刷网主站源码（无需授权）
-木槿自助下单系统
+# 木槿自助下单系统
 
 # 安装说明：
 # 上传到空间后直接访问即可根据提示安装。
