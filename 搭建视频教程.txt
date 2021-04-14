@@ -1,3 +1,7 @@
+# 仓库已搬移到https://gitee.com/webahzjjd/Daishua-source
+# 请到处下载源码，谢谢！
+
+
 搭建视频教程
 https://www.bilibili.com/video/BV1Ai4y1F7tA/
 
